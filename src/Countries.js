@@ -38,7 +38,7 @@ const Countries = [
   { ru:"Камерун",lt:"Kamerūnas",tr:"Kamerun", en: 'Cameroon',flag: '🇨🇲',code: 'CM', dialCode: '+237', mask: '9 99 99 99 99' },
   { ru:"Канада",lt:"Kanada",tr:"Kanada", en: 'Canada',flag: '🇨🇦',code: 'CA', dialCode: '+1', mask: '(999) 999-9999' },
   { ru:"Кабо-Верде",lt:"Žaliasis Kyšulys",tr:"Yeşil Burun Adaları", en: 'Cape Verde',flag: '🇨🇻',code: 'CV', dialCode: '+238', mask: '999 99 99' },
-  { ru:"Каймановы острова",lt:"Kaimanų salos",tr:"Cayman Adaları", en: 'Cayman Islands',flag: '🇰🇾',code: 'KY', dialCode: '+345', mask: '999 9999' },
+  { ru:"Каймановы острова",lt:"Kaimanų salos",tr:"Cayman Adaları", en: 'Cayman Islands',flag: '🇰🇾',code: 'KY', dialCode: '+1345', mask: '9999 9999' },
   { ru:"Центрально-Африканская Республика",lt:"Centrine Afrikos Respublika",tr:"Orta Afrika Cumhuriyeti", en: 'Central African Republic',flag: '🇨🇫',code: 'CF', dialCode: '+236', mask: '99 99 99 99' },
   { ru:"Чад",lt:"Čadas",tr:"Çad", en: 'Chad',flag: '🇹🇩',code: 'TD', dialCode: '+235', mask: '99 99 99 99' },
   { ru:"Чили",lt:"Čilė",tr:"Şili", en: 'Chile',flag: '🇨🇱',code: 'CL', dialCode: '+56', mask: '(9) 9999 9999' },
